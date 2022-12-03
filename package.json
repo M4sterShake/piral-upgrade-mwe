@@ -21,7 +21,6 @@
   "devDependencies": {
     "circular-dependency-plugin": "^5.2.0",
     "parcel-codegen-loader": "^0.8.3",
-    "piral-cli": "0.15.1",
     "piral-cli-webpack": "^0.15.1",
     "piral-instance-webpack-plugin": "^0.15.1"
   },
